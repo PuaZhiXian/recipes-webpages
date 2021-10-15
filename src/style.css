@@ -1,0 +1,35 @@
+.box {
+    border-style: solid;
+    box-shadow: 5px 10px #47476b;
+    width:50%;
+    border-radius: 25px;
+    margin: auto;
+    font-size: 20px;
+}
+header {
+     display: block;
+       margin-left: auto;
+       margin-right: auto;
+       width: 50%;
+}
+h1 {
+    font-family: 'Festive', cursive;
+    font-size: 50px;
+}
+h3 {
+    text-align: center;
+}
+body {
+    background-image: url('https://img.freepik.com/free-vector/galaxy-particles-background_52683-27364.jpg?size=626&ext=jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a:link {
+    color: #000000;
+}
+a:visited {
+  color: #ffffff;
+}
+#CookingGif {
+    border-radius: 5%;
+}
