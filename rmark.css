@@ -1,0 +1,43 @@
+
+p{
+    color:red;
+}
+body{
+    background-image: url("https://raw.githubusercontent.com/PuaZhiXian/recipes-webpages/master/WhatsApp%20Image%202022-06-23%20at%203.21.26%20AM.jpeg");
+    background-repeat: no-repeat;
+    /*-webkit-background-size: cover;*/
+    /*-moz-background-size: cover;*/
+    /*-o-background-size: cover;*/
+    background-size: cover;
+}
+#p1_text{
+    text-align: center;
+    margin: auto;
+    width: 100%;
+}
+#page1{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+}
+.p1_img1{
+    border-radius: 50%;
+    width:100px;
+    margin-left: 20px;
+}
+#p1_textb{
+    display:inline;
+}
+#d1{
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    float: left;
+}
+#d1 div{
+    float: left;
+    padding:20px;
+}
+#b1{
+    float: right;
+}
